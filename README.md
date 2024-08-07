@@ -1,4 +1,4 @@
 # Olá, Mundo!
- Primeiro repositório versionado;
+ Primeiro repositório versionado.
 
-Repositório criado para fase de testes do Git e Git-hub;
+Repositório criado para fase de testes do Git e Git-hub.
